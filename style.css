@@ -92,7 +92,7 @@
     color: hsl(228, 12%, 48%);
     font-weight: 500;
     line-height: 1.5;
-    padding-bottom: 1.5rem;
+    padding-bottom: 1rem;
   }
 
   .perfume {
@@ -106,14 +106,22 @@
   }
 
   .price {
-    
     display: flex;
     align-items: center;
     padding-bottom: 0.75rem;
   }
 
-  strong {
-    margin-left: 20px;
+  .new-price {
+    color: hsl(158, 36%, 37%);
+    font-size: 1.7rem;
+    font-family: 'Fraunces', sans-serif;
+    font-weight: bold;
+  }
+
+  .old-price {
+    margin-left: 1.5rem;
+    text-decoration: line-through;
+    color: hsl(228, 12%, 48%);
   }
 
   .btn {
@@ -133,7 +141,4 @@
     font-weight: bold;
   }
 
-
-
-
-
+  
