@@ -4,23 +4,16 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
+![image](https://user-images.githubusercontent.com/92500615/193351734-fa55f32c-572a-474f-8253-cc17e6955886.png)
+
+
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-
+- HTML
+- CSS 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Vinícius Silveira
 
 
